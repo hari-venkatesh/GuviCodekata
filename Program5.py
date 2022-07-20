@@ -2,8 +2,9 @@
 # Print the number of days in the 
 # month corresponding to that number.
 
-# Note: In case the input is February, print 28 days.
-# If the Input is not in valid range print "Error".
+# Note: In case the input is February, 
+# print 28 days. If the Input is not in 
+# valid range print "Error".
 
 a = int(input())
 list = [1,3,5,7,8,10,12]
