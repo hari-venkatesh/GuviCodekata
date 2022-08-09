@@ -22,3 +22,9 @@ a = float(input())
 m = (pi * a *2)
 o = "{:.2f}".format(m)
 print(o)
+
+
+# Sample Input :
+# 2
+# Sample Output :
+# 12.57
