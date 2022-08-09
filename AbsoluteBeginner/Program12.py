@@ -18,3 +18,9 @@ def factorial(x):
         
 r = factorial(a)
 print(r)
+
+
+# Sample Input :
+# 2
+# Sample Output :
+# 2
