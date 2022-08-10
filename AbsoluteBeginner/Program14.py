@@ -22,3 +22,9 @@ elif (y%4==0) and (y% 100!=0):
     print("Y")
 else:
     print("N")
+
+
+# Sample Input :
+# 2020
+# Sample Output :
+# Y  
