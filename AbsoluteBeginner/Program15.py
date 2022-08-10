@@ -55,3 +55,11 @@ if a==0:
     print()
 else:
     eq(a,b,c)
+
+
+# Sample Input :
+# 1 5 6
+# Sample Output :
+# -2.00
+# -3.00 
+# done
