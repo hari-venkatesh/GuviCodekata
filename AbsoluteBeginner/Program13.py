@@ -34,3 +34,9 @@ while (count <= n):
     count += 1
         
 print(y)
+
+
+# Sample Input :
+# 3
+# Sample Output :
+# 9 18 27
