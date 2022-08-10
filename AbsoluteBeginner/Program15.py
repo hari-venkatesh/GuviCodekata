@@ -31,7 +31,7 @@
 # rounding off to 2 decimal places if required.
 
 import math
-a,b,c=list(map(float, input().split()))
+#a,b,c=list(map(float, input().split()))
 def eq(a,b,c):
     dis=b*b-4*a*c
     sq=math.sqrt(abs(dis))
