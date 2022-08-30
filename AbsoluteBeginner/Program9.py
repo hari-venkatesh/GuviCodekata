@@ -14,5 +14,5 @@
 a = float(input())
 b = float(input())
 c = a + b
-res = "{:.1f}".format(c)
-print(res)
+result = "{:.1f}".format(c)
+print(result)
